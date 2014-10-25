@@ -1,0 +1,22 @@
+{
+  "name": "dimensionMason",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "features",
+    "public"
+  ],
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "jquery": "~2.0.3",
+    "rng-js": "~1.0.0",
+    "commonjs": "https://gist.github.com/6786792.git",
+    "easeljs": "*",
+    "tweenjs": "*",
+    "EventBus": "https://github.com/krasimir/EventBus.git",
+    "rot.js": "~0.5.0",
+    "chance": "~0.6.1"
+  }
+}
